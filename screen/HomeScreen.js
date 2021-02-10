@@ -21,10 +21,6 @@ class HomeScreen extends React.Component{
         <Formulae/>
       
       </View>
-        <Button
-        title="Go to Popular"
-        onPress={() => navigation.navigate('Popular')}
-      />
     </View>
   </>
   )
